@@ -1,0 +1,13 @@
+00_SI.out
+*.vs
+
+.ipynb_checkpoints
+
+.directory
+*.swp
+
+*.bak
+.dropbox
+desktop.ini
+__temp__
+__old__
